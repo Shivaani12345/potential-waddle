@@ -1,0 +1,25 @@
+.Test_Image_Result_pencil_pouch{
+    background-color: rgb(255, 161, 161);
+}
+.Test_Image_Result_Bowl{
+    background-color: rgb(255, 214, 161);
+}
+.Test_Image_Result_remote{
+    background-color: rgb(253, 255, 161);
+}
+.Test_Image_Result_mouse{
+    background-color: rgb(161, 255, 169);
+}
+.Test_Image_Result_lavender{
+    background-color: rgb(161, 244, 255);
+}
+.Test_Image_Result_pen{
+    background-color: rgb(161, 175, 255);
+}
+.Test_Image_Result_mango{
+    background-color: rgb(194, 161, 255);
+}
+body{
+    background-color: black;
+    text-align: center;
+}
